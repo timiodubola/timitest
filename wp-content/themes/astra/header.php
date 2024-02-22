@@ -43,7 +43,7 @@ if ( apply_filters( 'astra_header_profile_gmpg_link', true ) ) {
 	title="<?php echo esc_attr( astra_default_strings( 'string-header-skip-link', false ) ); ?>">
 		<?php echo esc_html( astra_default_strings( 'string-header-skip-link', false ) ); ?>
 </a>
-<div>STAGING TIMI TESTING  DEPLOY FROM GITHUB</div>
+<div>STAGING DEPLOY FROM GITHUB</div>
 
 <div
 <?php
